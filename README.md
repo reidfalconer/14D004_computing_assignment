@@ -11,3 +11,6 @@ This notebook sets out to conduct an exploratory data analysis (EDA) on traffic 
 - Does the casualty class of an accident differ across geographic areas?
 - Do most accidents occur in "high-speed" zones?
 - What time do traffic accidents occur?
+
+## NB: Data
+The data is on road-traffic accidents in the UK from 2005 till 2015 and can be accessed at the following link: [https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data](https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data)
