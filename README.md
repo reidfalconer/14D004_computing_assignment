@@ -1,4 +1,4 @@
-# 14D004 Computing Assignment
+# 14D004 Computing Visualisation Assignment
 
 ## EDA of Traffic Accidents in the United Kingdom Between 2005-2015
 
@@ -16,15 +16,13 @@ This notebook sets out to conduct an exploratory data analysis (EDA) on traffic 
 - The data is on road-traffic accidents in the UK from 2005 till 2015 and can be accessed at the following link: [https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data](https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data)
 - The GIS shapefile data can be download at [http://www.diva-gis.org/datadown](http://www.diva-gis.org/datadown) or [directly](http://biogeo.ucdavis.edu/data/diva/adm/GBR_adm.zip)
 
-
 # Examples of Plots Generated:
+
+### What time do traffic accidents occur?
+![Alt Text](https://github.com/reidfalconer/14D004_computing_assignment/blob/master/example_plots/week_map.gif)
 
 ### Where do traffic accidents occur?
 ![Alt Text](https://github.com/reidfalconer/14D004_computing_assignment/blob/master/example_plots/map.gif)
 
 ### How has the distribution of the age of casualties changed over time?
 ![Alt Text](https://github.com/reidfalconer/14D004_computing_assignment/blob/master/example_plots/age_distribution.gif)
-
-### Do most accidents occur in "high-speed" zones?
-![Alt Text](https://github.com/reidfalconer/14D004_computing_assignment/blob/master/example_plots/speed.gif)
-
